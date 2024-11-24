@@ -38,6 +38,14 @@ a:hover:has(.withdrawn) {
   box-shadow: 2px 2px 5px brown;
 }
 
+a:hover:has(.elected) {
+  box-shadow: 2px 2px 5px darkgreen;
+}
+
+a:hover:has(.vacant) {
+  box-shadow: 2px 2px 5px grey;
+}
+
 a:hover .image-box .caption {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
