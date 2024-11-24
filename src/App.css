@@ -1,0 +1,98 @@
+
+h2 {
+  font-family: 'Garamond';
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  margin: 10px;
+}
+
+.pics {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 15px;
+  margin: 25px auto;
+  width: 50%;
+}
+
+a {
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+a:hover {
+  box-shadow: 2px 2px 5px var(--darker);
+}
+
+a:hover:has(.caption_withdrawn) {
+  box-shadow: 2px 2px 5px brown;
+}
+
+a:hover .image-box .caption {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.image-box {
+  display: flex;
+  flex-flow: column wrap;
+  padding-bottom: 10px;
+}
+
+img {
+  height: var(--image-box-width);
+  width: var(--image-box-width);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #d3c6df;;
+}
+
+.caption {
+  text-align: center;
+  width: var(--image-box-width);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 3px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.caption_announced, .caption_named {
+  color: var(--darker);
+  background-color: var(--lighter);
+}
+
+.caption_withdrawn {
+  color: white;
+  background-color: brown;
+}
+
+.title-box {
+  width: 80px;
+  display: flex;
+  flex-flow: column wrap;
+  margin: 0 10px;
+}
+
+.title, .name {
+  font-family: var(--franklin);
+  color: black;
+  margin: 0;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 12px;
+  padding: 10px 0px 0px 0px;
+}
+
+.name {
+  font-size: 12px;
+  padding: 5px 0px 0px 0px;
+  letter-spacing: .025rem;
+}
+
+

@@ -1,0 +1,10 @@
+html {
+  --image-box-width: 100px;
+  --franklin: "nyt-franklin", arial, helvetica, sans-serif;
+  --darker: #9f6700;
+  --lighter: #fce4ba;
+}
+
+.App {
+  margin: 40px 0px;
+}
