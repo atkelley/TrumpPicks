@@ -5,25 +5,23 @@ import './App.css';
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="container">
       {Object.entries(picks).map(([key, value], index) => {
         return (
-          <div key={index}>
+          <section key={index}>
             <h2>{key}</h2>
 
-            <div className="pics">
-              {value.map(({ name, title, title_full, status, data }) => {
-                const converted = name.toLowerCase().replace(" ", "-");
-
+            <div className="pics-box">
+              {value.map(({ name, image, department, title, status }, index) => {
                 return (
-                  <Link key={name} to={`/${converted}`} state={{ name, converted, title_full, status, data }}>
+                  <Link key={`${department}-${index}`} to={`/${image}`} state={{ name, image, department, title, status  }}>
 
-                    <div key={converted} className="image-box">
-                      <img src={`/images/${converted}.png`} alt={name} />
-                      <p className={`caption caption_${status.toLowerCase()}`}>{status}</p>
+                    <div className="image-box">
+                      <img src={`/images/${image}.png`} alt={name} />
+                      <p className={`caption ${status.toLowerCase()}`}>{status}</p>
       
                       <div className="title-box">
-                        <p className="title">{title}</p>
+                        <p className="title">{department}</p>
                         <p className="name">{name}</p>
                       </div>
                     </div>
@@ -31,7 +29,7 @@ export default function App() {
                 );
               })}
             </div>
-          </div>
+          </section>
         );
       })}
     </div>

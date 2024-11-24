@@ -1,10 +1,16 @@
 html {
   --image-box-width: 100px;
   --franklin: "nyt-franklin", arial, helvetica, sans-serif;
-  --darker: #9f6700;
+  --background-color: #d3c6df;
   --lighter: #fce4ba;
+  --darker: #9f6700;
+
 }
 
-.App {
+body {
+  margin: 0;
+}
+
+.container {
   margin: 40px 0px;
 }
