@@ -311,7 +311,7 @@ export const picks = {
     }, 
     { 
       name: 'Alex Wong', 
-      image: 'placeholder',
+      image: 'alex-wong',
       department: 'Dep. NSA', 
       title: "United States Principal Deputy National Security Advisor", 
       status: "Named",
@@ -320,7 +320,7 @@ export const picks = {
       name: 'Sebastian Gorka', 
       image: 'sebastian-gorka',
       department: 'Dep. Asst. to the President', 
-      title: "Deputy Assistant to the President / Senior Director for Counterterrorism", 
+      title: "Deputy Assistant to the President and Senior Director for Counterterrorism", 
       status: "Named",
     }, 
   ],

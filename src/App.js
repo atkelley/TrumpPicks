@@ -14,7 +14,7 @@ export default function App() {
             <div className="pics-box">
               {value.map(({ name, image, department, title, status }, index) => {
                 return (
-                  <Link key={`${department}-${index}`} to={`/${image}`} state={{ name, image, department, title, status  }}>
+                  <Link key={`${department}-${index}`} to={`/${image !== 'placeholder' ? image : ''}`} state={{ name, image, title, status }}>
 
                     <div className="image-box">
                       <img src={`/images/${image}.png`} alt={name} />
