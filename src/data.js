@@ -590,6 +590,142 @@ export const data = {
     fun_facts: [],
     assessment: ""
   },
+  "mike-huckabee": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "pete-hoekstra": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "todd-blanche": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "d-john-sauer": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "jamieson-greer": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "jay-bhattacharya": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "john-phelan": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "jim-oneill": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "steven-witkoff": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "james-braid": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "matt-brasseaux": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "alex-latcham": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "vince-haley": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "kevin-hassett": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "keith-kellogg": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+
   "blank-template": {
     education: "",
     background: "",
