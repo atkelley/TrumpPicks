@@ -88,12 +88,19 @@ export const data = {
     assessment: ""
   },
   "lori-chavez-deremer": {
-    education: "",
+    education: "Bachelor's from CSU - Fresno (business administration)",
     background: "",
-    professional: "",
+    professional: `Elected city council (2004) then mayor of Happy Valley (2010 - 2018), Oregon. In both 2016 and 2018, ran unopposed for Republican primary for Oregon House of Representatives
+    (District 51), but lost both times to Janelle Bynum in the general elections by slim margins. Formed a PAC in 2017 to explore a gubernatorial bid for 2018 election, but eventually
+    declined. In 2022, won U.S. House of Representatives (Oregon - 5th) against progressive candidate, Jamie MacLeod-Skinner (after significant
+    redistricting that resulted in the loss of Salem and all of 5th's coastline). In 2024, lost the 5th to Jamie MacLeod-Skinner (again, by a slim margin).`,
     controversies: [],
-    positions: [],
-    fun_facts: [],
+    positions: [`Pro-Israel`, `One of six Republicans to sign bipartisan letter pledging to respect the results of the 2024 election`, `Co-sponsored
+    legislation with minority leader, Hakeem Jeffries, to reform federal cannabis laws (create process to end cannabis prohibition and expunge low-level,
+    cannabis convictions)`, `One of three Congressional Republicans to support the PRO Act (amends current labor laws and expands employees' rights to organize and collectively bargain)`],
+    fun_facts: [`Described as a mainstream Republican who sees herself as an independent thinker`, `Supported by Sean O'Brien (Teamsters President) for Secretary of Labor`, 
+    `First Republican woman to represent Oregon in the House of Representatives`, `One of the first two Hispanic women elected to the Congress from Oregon.`
+    ],
     assessment: ""
   },
   "robert-kennedy-jr": {
@@ -240,7 +247,7 @@ export const data = {
     fun_facts: [`Avid log-roller since he was five`, `Holds 2 titles in speed-climbing`, `Resigned half-way through 
       last term as WI representative to spend more time with family, after his 9th child was born with Down's Syndrome 
       and other health problems`],
-    assessment: ""
+    assessment: "This guy looks exactly like how I pictured an avid log roller to look like. Also: 9. fucking. kids."
   },
   "chris-wright": {
     education: `former UC (Berkeley) and MIT engineering graduate`,
@@ -256,7 +263,7 @@ export const data = {
   "linda-mcmahon": {
     education: "",
     background: `
-      served as Trump's Small Business Administrator, wife of Vince McMahon (founder of WWF/WWE)
+      served as Trump's Small Business Administrator (from 2017 to 2019), wife of Vince McMahon (founder of WWF/WWE)
     `,
     professional: "",
     controversies: [],
@@ -265,22 +272,66 @@ export const data = {
     assessment: "Enough said."
   },
   "scott-turner": {
-    education: "",
-    background: "",
-    professional: "",
+    education: `Earned full academic and athletic scholarship to University of Illinois. Played as wide-receiver and 
+    cornerback in football. Ran 200m, 400m and 4x400m for track. Earned First-Team, All-Big Ten honors and made All-American. 
+    Graduated with degree in communications in 1995.`,
+    background: `4th-generation Texan (from the Dallas area). Parents divorced when he was 10.`,
+    professional: `In 1995, he was drafted in 7th round for Washington Redskins. Eventually cut after 3 seasons, but then picked up by San Diego 
+    Chargers (played for 4 seasons before cut again). Played another season with the Denver Broncos until a leg injury ended
+    his football career. Went on to coach for the NFL Legends Community transition program. Was also a senior advisor to the NFL's executive 
+    vice president of football operations. In 2003, was an intern for Congressman Duncan Hunter (went permanent after football career ended).
+    In 2006, he ran for the vacated seat of California's 50th, but lost in the blanket primary election (placed 8th out of 17 candidates).
+    From 2007 to 2023, he worked many different roles, including chief inspirationsal officer, at Systemware, a content management software company.
+    In 2012, ran for and won Texas House of Representatives (newly-formed 33rd). Served two terms before Trump appointed him director of 
+    White House Opportunity and Revitalization Council (formed to better coordinate Federal economic development resources in Opportunity 
+    Zones and other distressed communities). In 2023, Turner was named Chief Visionary Officer of JPI, a national developer, builder and 
+    investment manager of Class A, attainable and affordable multifamily assets across the U.S. Turner is also the founder and president of 
+    Community Engagement & Opportunity Council (an organization credited with renovating the Literacy Lab in Bonton, TX).`,
     controversies: [],
     positions: [],
-    fun_facts: [],
+    fun_facts: [`Told his mother when he was 10 that he'd play in the NFL someday.`, `Turner and his wife, Robin Turner, own Statesman Clothiers, 
+    a custom men's clothing company`, `Serves as an associate pastor at Prestonwood Baptist Church (in Plano, TX)`, `Received an honorary doctorate from Dallas 
+    Baptist University in 2016`],
     assessment: ""
   },
   "john-ratcliffe": {
-    education: "",
-    background: "",
-    professional: "",
-    controversies: [],
-    positions: [],
-    fun_facts: [],
-    assessment: ""
+    education: `degrees from University of Notre Dame (government and international studies) and the Southern Methodist University School of Law (now Dedman School of Law)`,
+    background: `After attaining his degrees, he practiced law privately. Then from 2004 to 2012, served four terms as mayor of Heath, TX. In 2004, 
+    was appointed by George W. Bush, Jr. as chief of anti-terrorism and national security for the Eastern District of Texas. After, did a bried stint
+    as interim U.S. Attorney (also for Eastern District of Texas) until returning to his private law practice. In 2009, became a partner with 
+    John Ashcroft (former U.S. Attorney General). In 2012, served as part of Mitt Romney's transition team, vetting potential appointees.`,
+    professional: `Won 2014 election for House of Representatives of Texas (4th, Texas' most republican district, 13th overall) by defeating 
+    longtime-incumbent Ralph Hall in historic runoff election (after receiving numerous endorsements from Ron Paul, Michele Bachmann, Mike Huckabee,
+    the NRA Political Victory and Senate Conservatives Funds and the Tea Party Express). Was elected two more times, during which he sat on many 
+    committees and subcommittees (Judiciary, Homeland Security, Ethics, Oversight and Management Efficiency, Cybersecurity and Infrastructure Protection, etc.), 
+    questioned former FBI director, James Comey, about the FBI's decision to not recommend criminal charges against Hillary Clinton (regarding her email controvery)
+    and prepared oral arguments and legal briefs for Trump's Impeachment defense team. In 2019, Ratcliffe was first nominated for DNI, during which
+    he criticized the FBI and special counsel, stating that the 2016 Russian election interference helped Clinton more than Trump. He also claimed
+    the Mueller report was written by Clinton's legal team and argued that the special counsel investigation report put Trump "below the law", since
+    it didn't exonerate him. In 2020, Trump again nominated Ratcliffe for DNI and was confirmed by a vote of 49-44. Later in October 2020, he 
+    declassified 2016 Russian disinformation that asserted Clinton had personally created and approved a scheme to associate Trump with 
+    Putin and the Russian hacking of the DNC. He then provided it to Lindsey Graham, who released it, despite it being deemed baseless by the 
+    Republican-led Senate Intelligence Committee. A letter to Graham from Ratcliffe claimed that the intelligence community doesn't actually know 
+    the accuracy of the information and how much of it is considered fabrication or exaggeration. Also in October 2020, Ratcliffe argued that threatening
+    emails sent to Democrats (demanding they vote for Trump) were from Iran attempting to sabotage the election against Trump.`,
+    controversies: [`In 2019, he tweeted that former FBI attorney, Lisa Page, had been instructed by Obama's Justice Department to not charge
+    Clinton with gross negligence charges. However, the excerpt didn't include Page's clarification that the FBI doesn't charge individuals, 
+    the DOJ does (the DOJ inspector general report having already exonerated Clinton, as per precedent set by former Attorney General Alberto Gonzales 
+    mishandled documents case)`, `During first nomination process for DNI, there were concerns that he would politicize the position. Also, the 
+    media uncovered various embellishments about his experience with terrorism and immigration (either blatanly lying about or
+    misrepresenting his involvement).`, `As DNI, he was rumored to have used the position to score political points for Trump and he 
+    also acted as his hatchet-man, sidelining various career officials.`],
+    positions: [`Believes China is the largest overall threat to the U.S. and rest of the world. Cites China's numerous human rights violations (i.e. crimes against Uyghur Muslims). 
+    Also believes China covered up COVID-19's origin`, `Supported Trump's 2017 travel ban`, `Pro-term limits`, `Major proponent for cybersecurity, 
+    having studied ways to improve coordination between Dept. of Homeland Security and the private sector`, `Supported the repeal of Net Neutrality`,
+    `Thinks the Steele dossier is fake`, `Believed there may have been a 'secret society' of folks within the Department of Justice and the FBI working against Trump`
+    ],
+    fun_facts: [`In 2016, the Heritage Foundation ranked him as the most conservative Texas legislator in Congress and second-most conservative legislator in the country`,
+    `After Ratcliffe's claim of a 'secret society' within the FBI, Republican investigators learned from an informant that the term 'secret society' 
+    referred to a joke from former Deputy Assistant Director of the FBI's Counterintelligence Division, Peter Strzok's purchase of "beefcake" calendars 
+    of Vladimir Putin for FBI employees who had worked on the 2016 Russian election interference investigation`
+    ],
+    assessment: ``
   },
   "tulsi-gabbard": {
     education: ``,
