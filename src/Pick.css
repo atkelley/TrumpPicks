@@ -80,3 +80,12 @@
 .pick-data-box p, .pick-data-box div, .pick-data-box div ul {
   margin: 5px 0px;
 }
+
+.special {
+  text-align: center;
+}
+
+.special img {
+  height: 450px;
+  width: auto;
+}

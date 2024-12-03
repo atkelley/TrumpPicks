@@ -112,6 +112,14 @@ export const picks = {
       title: "Director of the Central Intelligence Agency", 
       status: "Announced",
     },  
+
+    { 
+      name: 'Kash Patel', 
+      image: 'kash-patel',
+      department: 'FBI', 
+      title: "Director of the Federal Bureau of Investigation", 
+      status: "Announced",
+    },  
     { 
       name: 'Tulsi Gabbard', 
       image: 'tulsi-gabbard',
@@ -160,7 +168,8 @@ export const picks = {
       department: 'CDC', 
       title: "Director of the Centers for Disease Control and Prevention", 
       status: "Announced",
-    },      { 
+    },      
+    { 
       name: 'Janette Nesheiwat', 
       image: 'janette-nesheiwat',
       department: 'Surgeon General', 
@@ -202,8 +211,6 @@ export const picks = {
       title: "Secretary of the Navy", 
       status: "Announced",
     }, 
-
-
     { 
       name: 'Jim O\'Neill', 
       image: 'jim-oneill',
@@ -230,6 +237,13 @@ export const picks = {
       image: 'pete-hoekstra',
       department: 'Amb. to Canada', 
       title: "Ambassador to Canada", 
+      status: "Announced",
+    }, 
+    { 
+      name: 'Charles Kushner', 
+      image: 'charles-kushner',
+      department: 'Amb. to France', 
+      title: "Ambassador to France", 
       status: "Announced",
     }, 
     { 
@@ -422,6 +436,13 @@ export const picks = {
       image: 'keith-kellogg',
       department: 'Ukraine & Russia envoy', 
       title: "Special Envoy for Ukraine and Russia", 
+      status: "Named",
+    }, 
+    { 
+      name: 'Massad Boulos', 
+      image: 'massad-boulos',
+      department: 'Senior advisor', 
+      title: "Senior Advisor to the President on Arab and Middle Eastern Affairs", 
       status: "Named",
     }, 
   ],

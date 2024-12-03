@@ -4,7 +4,7 @@ import './Pick.css';
 
 export default function Pick() {
   const { state: { name, image, title, status } } = useLocation();
-  const { education, background, professional, controversies, positions, fun_facts, assessment } = data[image];
+  const { education, background, professional, controversies, positions, fun_facts, assessment, special } = data[image];
 
   return (
     <div className="pick">
@@ -50,6 +50,7 @@ export default function Pick() {
         }
 
         {assessment && <p><strong>Assessment: </strong>{assessment}</p>}
+        {special &&  <p className='special'><img src={special} alt={name} /></p>}
       </div>
     </div>
   )

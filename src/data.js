@@ -776,6 +776,54 @@ export const data = {
     fun_facts: [],
     assessment: ""
   },
+  "kash-patel": {
+    education: `degrees from University of Richmond, Virginia (history and criminal justice), Pace University School of Law and 
+    received a certificate in international law from University College London, England`,
+    background: `After law school, spent eight years as a public (and federal public) defender in Miami-Dade county. In 2014, hired by
+    DOJ's National Security Division as both a trial attorney and legal liaison to the Joint Special Operations Command (a part of USSOCOM, 
+    a unified combatant command that oversees the special operations in all the armed forces).`,
+    professional: `In 2017, appointed as senior counsel on counterterrorism for the House Intelligence Committee and senior 
+    committee aide to its chair, Devin Nunes (CA - 21st), where he was rumored to be the primary author of the 2018 Nunes memo 
+    (alleging FBI misconduct during the electronic surveillance of Trump associate, Carter Page). In 2019, was hired as staffer for Trump's
+    NSC and later became its Senior Director of the Counterterrorism Directorate (a position created for him). In 2020, became Principal Deputy
+    to acting DNI, Richard Grenell. Trump then considered installing Patel as either CIA Deputy Director or Acting Director, but faced
+    considerable resistance, including from AG, William Barr. So instead, Trump named him chief of staff to Acting Sec. of Defense, Chris Miller 
+    (after Patel convinced Trump that Sec. of Defense, Mark Esper, was disloyal for not deploying troops to Washington during the George Floyd riots).
+    After his time in government service, he worked for the Trump Media Group and published a children's book called "The Plot Against the King" 
+    (a fairy tale about Hillary Clinton picking on Trump). Later that year, created "Fight With Kash", a non-profit organization that raised money for 
+    "helping other people in need, though more specifically to bring America First patriots together and help fight the Deep State"`,
+    controversies: [`During time as with NSC, came under suspicion as part of Trump's independent backchannel to Ukraine (along with Giuliani, 
+    during the Trump-Ukraine scandal)`, `After the 2020 election, was criticized for using his position as chief of staff to the Acting Sec. of 
+    Defense to block coordination of DOD officials with the Biden transition team`, `Publicly defended Trump (during his classified documents 
+    investigation in 2021), stating that Trump had declassified broad sets of sensitive documents before leaving office, but pleaded the 5h during 
+    his testimony before a federal grand jury`],
+    positions: [`Huge believer in the deep-state conspiracy theory (published his own book about it after his time with the first Trump administration)`,
+    `Also has promoted conspiracy theories about COVID-19, the 2020 presidential election and the QAnon (global sex trafficking ring) conspiracy theory`],
+    fun_facts: [`Born and raised with Hindi values in Garden City, New York (Long Island) to Indian Gujarati parents. Plays ice hockey.`, `In 2014, was going to participate in a bachelor aution of "very handsome lawyers" to benefit "Switchboard of Miami" (a non-profit 
+    organization that provided counseling services for Miami-Dade county) until a blogger uncovered that his Florida law license had expired.`, 
+    `According to the New York Times, led an unsuccessful, secret mission in 2012 to negotiate the release of two journalists 
+    (Majd Kamalmaz and Austin Tice) being held by Syria.`, `Unironically, the funniest profile picture of all cabinet picks:`],
+    special: "https://media.defense.gov/2020/Nov/17/2002537293/825/780/0/201117-D-ZZ999-031.JPG",
+    assessment: ``
+  },
+  "charles-kushner": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "massad-boulos": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
 
   "blank-template": {
     education: "",
