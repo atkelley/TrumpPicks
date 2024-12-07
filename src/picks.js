@@ -247,12 +247,78 @@ export const picks = {
       status: "Announced",
     }, 
     { 
-      name: 'Not yet announced', 
-      image: 'placeholder',
+      name: 'David Perdue', 
+      image: 'david-perdue',
+      department: 'Amb. to China', 
+      title: "Ambassador to China", 
+      status: "Vacant",
+    }, 
+    { 
+      name: 'Brandon Judd', 
+      image: 'brandon-judd',
+      department: 'Amb. to Chile', 
+      title: "Ambassador to Chile", 
+      status: "Vacant",
+    },
+    { 
+      name: 'Kelly Loeffler', 
+      image: 'kelly-loeffler',
       department: 'SBA', 
       title: "Administrator of the Small Business Administration", 
       status: "Vacant",
     }, 
+    { 
+      name: 'Frank Bisignano', 
+      image: 'frank-bisignano',
+      department: 'SS', 
+      title: "Commissioner of the Social Security Administrations", 
+      status: "Vacant",
+    }, 
+
+
+    { 
+      name: 'Jared Isaacman', 
+      image: 'jared-isaacman',
+      department: 'NASA', 
+      title: "Administrator of the National Aeronautics and Space Administration", 
+      status: "Vacant",
+    }, 
+    { 
+      name: 'Paul Atkins', 
+      image: 'paul-atkins',
+      department: 'SEC', 
+      title: "Chairman of the Securities and Exchange Commission", 
+      status: "Vacant",
+    }, 
+    { 
+      name: 'Billy Long', 
+      image: 'billy-long',
+      department: 'IRS', 
+      title: "Commissioner of Internal Revenue Service", 
+      status: "Vacant",
+    }, 
+    { 
+      name: 'Daniel Driscoll', 
+      image: 'daniel-driscoll',
+      department: 'Army', 
+      title: "Secretary of the Army", 
+      status: "Vacant",
+    }, 
+    { 
+      name: 'Michael Faulkender', 
+      image: 'michael-faulkender',
+      department: 'Dep. Treasury', 
+      title: "Deputy Secretary of the Treasury", 
+      status: "Vacant",
+    }, 
+    { 
+      name: 'Adam Boehler', 
+      image: 'adam-boehler',
+      department: 'Hostage Affairs', 
+      title: "Special Envoy for Hostage Affairs", 
+      status: "Vacant",
+    }, 
+
     { 
       name: 'Not yet announced', 
       image: 'placeholder',
@@ -445,6 +511,27 @@ export const picks = {
       title: "Senior Advisor to the President on Arab and Middle Eastern Affairs", 
       status: "Named",
     }, 
+    { 
+      name: 'David Warrington', 
+      image: 'david-warrington',
+      department: 'White House Counsel', 
+      title: "White House Counsel", 
+      status: "Named",
+    },
+    { 
+      name: 'Peter Navarro', 
+      image: 'peter-navarro',
+      department: 'Senior counselor', 
+      title: "Senior Counselor to the President", 
+      status: "Named",
+    }, 
+    { 
+      name: 'Caleb Vitello', 
+      image: 'caleb-vitello',
+      department: 'ICE', 
+      title: "Acting Director of U.S. Immigration and Customs Enforcement", 
+      status: "Named",
+    }, 
   ],
 
   "Withdrawn": [
@@ -453,6 +540,13 @@ export const picks = {
       image: 'matt-gaetz',
       department: 'AG', 
       title: "Attorney General", 
+      status: "Withdrawn",
+    }, 
+    { 
+      name: 'Chad Chronister', 
+      image: 'chad-chronister',
+      department: 'DEA', 
+      title: "Administrator of the Drug Enforcement Administration", 
       status: "Withdrawn",
     }, 
   ]
