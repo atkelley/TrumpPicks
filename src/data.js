@@ -824,9 +824,6 @@ export const data = {
     fun_facts: [],
     assessment: ""
   },
-
-
-
   "david-warrington": {
     education: "",
     background: "",
@@ -846,6 +843,176 @@ export const data = {
     assessment: ""
   },
   "caleb-vitello": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "chad-chronister": {
+    education: `two years at Mansfield University (business and communication), then attained degrees from Saint Leo University 
+    (Bachelor's and Master's in criminal justice and criminology, respectively). Later graduated from FBI National Academy`,
+    background: ``,
+    professional: `Has served in the Hillsborough County Sheriff Office (PA) since 1992, as a patrolman, a S.W.A.T. operator and a detective 
+    in different units (environmental enforcement, warrants, narcotics, intelligence, etc.). Later, he became a supervisor in the 
+    Warrants, Narcotics, Intelligence, and Dignitary Protection Detail, then the deputy commander of the Community Outreach Division, 
+    lastly the colonel of the Department of Operation Support until he was finally appointed sheriff by his predecessor in 2017. Since then,
+    he's won every election and is the co-chairman of the Regional Domestic Security Task Force for Region IV Tampa Bay and the vice-chairman 
+    of both the Hillsborough County Public Safety Coordinating Council and the Hillsborough County Public Schools Oversight Committee.`,
+    controversies: [`In early December 2024, Chronister withdrew from his DEA nomination. Trump claims he pulled him after learning about Chronister
+    arresting and publicly criticizing Dr. Rodney Howard-Browne, pastor of The River at Tampa Bay Church, for holding large church services
+    during the COVID-19 pandemic.`],
+    positions: [],
+    fun_facts: [`Ran unopposed in 2024`, `Married Nicole DeBartolo, daughter of San Francisco 49ers former owner Edward J. DeBartolo Jr`, 
+    `Chronister's son, George, was arrested for stabbing another man in the face in 2017 (sentenced in 2018 to 22 months in prison and 
+    3 years probation)`],
+    assessment: ``
+  },
+
+  "david-perdue": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "brandon-judd": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "kelly-loeffler": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "frank-bisignano": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "jared-isaacman": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "paul-atkins": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "billy-long": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "daniel-driscoll": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "michael-faulkender": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "adam-boehler": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "harmeet-dhillon": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "gail-slater": {
+    education: `received her Bachelor's and Master's from University College Dublin after attending University of Oxford`,
+    background: `holds dual citizenship after moving to the U.S. from Ireland in 2003`,
+    professional: `Started her career with British law firm, Freshfields Bruckhaus Deringer, with focus on antitrust cases and often
+    acting as their U.S. liason. Moved in 2004 to work for U.S. FTC and worked on several larger mergers (Whole Foods Market, Cephalon, etc.). 
+    Became FTC attorney advisor to commissioner, Julie Brill, in 2011. Left the FTC in 2014 to work as vice president (of legal and 
+    regulatory policy) and later, general counsel, at Internet Association (a now-defunct, Internet lobbying group). In 2018, was appointed by Trump
+    as special assistant to the president for technology, telecommunications and cybersecurity. After a year, left to become the senior 
+    vice president of policy and strategy for the FOX corporation. Later, she became vice president and general counsel for Roku, Inc. (a 
+    streaming technology company). In 2024, she became the policy advisor for J.D. Vance.`,
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ``
+  },
+  "ronald-johnson": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "thomas-barrack-jr": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "kimberly-guilfoyle": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "dan-bishop": {
     education: "",
     background: "",
     professional: "",
