@@ -389,13 +389,35 @@ export const data = {
     assessment: ""
   },
   "martin-makary": {
-    education: "",
-    background: "",
-    professional: "",
+    education: `holds degrees from Bucknell, Thomas Jefferson and Harvard and completed his residency
+    at Georgetown University. Completed a Masters of Public Health (M.P.H.) degree, with a concentration in health policy
+    and completed sub-specialty surgery training at Johns Hopkins in surgical oncology and gastrointestinal surgery.`,
+    background: `born in Liverpool, England, lived in Baltimore, MD as a child and later in Dansville, PA.`,
+    professional: `While in Georgetown, wrote for the Advisory Board Company. Later, wrote articles on surgical complication
+    prevention, frailty and teamwork culture. Was also the first author of the original scientific publication 'The Surgery Checklist' and
+    later worked with the WHO to develop their checklist. Eventually, was awarded the Mark Ravitch Chair in Gastrointestinal Surgery
+    (an endowed chair at John Hopkins), becoming the youngest recipient. Three years later, he was named the Credentials Chair and Director 
+    of Quality and Safety for Surgery at Johns Hopkins. In 2020, was named Editor-in-Chief of "MedPage Today". Was also appointed chief of 
+    the Johns Hopkins Islet Transplant Center, clinical lead for the Johns Hopkins Sibley Innovation Hub, Executive Director of Improving 
+    Wisely (a Robert Wood Johnson Foundation project to lower health care costs) and the founder of the Johns Hopkins Center For Surgical 
+    Outcomes Research and Clinical Trials. Makary has also pioneered novel surgical procedures and been awarded the Nobility in Science Award 
+    by the National Pancreas Foundation for performing the world's first series of laparoscopic pancreas islet transplant operations (the
+    Whipple surgery and Frey's procedure). Has several partnerships, including grants from the HHS for "Healthcare Quality and Research" (to 
+    study obesity treatment) and a project collaborated with Peter Pronovost and the American College of Surgeons (to implement safety programs 
+    at 100 U.S. hospitals). Was also the lead author in the paper introducing the "Hospital Survey of Patient Safety Culture" and has called
+    for the public reporting of physician-endorsed quality measures by hospitals. Makary also advocates for price transparency, has led 
+    efforts to ask hospitals to stop suing their low-income patients and exposed loopholes in the Orphan Drug Act accounting for higher drug 
+    pricing.`,
     controversies: [],
-    positions: [],
-    fun_facts: [],
-    assessment: ""
+    positions: [`During COVID-19 pandemic, was proponent of masking, a national lockdown, vaccines and early vaccination strategies (single dose vs. second dose options, 
+    especially for 12-17 year olds), but an opponent of vaccine mandates, boosters (called the Omicron variant "nature's vaccine"), FDA (critical of Pfizer mRNA vaccine approval rate) and CDC policies and university and college restrictions.`, `Early advocate that COVID-19 should be taken seriously and predicted 
+    the strain on the healthcare system`, `In February 2021, incorrectly predicted that herd immunity would mostly eradicate COVID by April 2021`, 
+   `Donated to Obama's 2008 campaign`, `Donated to Frank Wolf, a House of Representative Republican (VA - 10th) in the 2000s`],
+    fun_facts: [`Has appeared on NBC and FOX News and written for The Wall Street Journal, USA Today, Time, Newsweek and CNN.`, `Has written
+    several books: "Unaccountable" (which was turned into the series "The Resident"), "Mama Maggie" (a personal story about Magda Gobran, a 
+    distant relative and Nobel Peace Prize nominee for her work in the slums of Cairo), "The Price We Pay" (how business leaders can lower 
+    their healthcare costs) and "Blind Spots" (a book about cases where medicine got science wrong)`],
+    assessment: ``
   },
   "matthew-whitaker": {
     education: "",
@@ -870,7 +892,6 @@ export const data = {
     3 years probation)`],
     assessment: ``
   },
-
   "david-perdue": {
     education: "",
     background: "",
@@ -926,13 +947,24 @@ export const data = {
     assessment: ""
   },
   "billy-long": {
-    education: "",
-    background: "",
-    professional: "",
-    controversies: [],
-    positions: [],
-    fun_facts: [],
-    assessment: ""
+    education: `attended (but did not graduate) University of Missouri. Later, received his Certified Auctioneer 
+    designation via the National Auctioneers Association after attending 9-day auction training program from Missouri Auction School.`,
+    background: `4th generation Missouri native. Owner of Billy Long Auctions, LLC. Talk show host of Springfield, MO's KWTO. Member of
+    National Association of Realtors, National Auctioneers Association, Springfield Area Chamber of Commerce, Greater Springfield Board of 
+    Realtors and the NRA.`,
+    professional: `Succeeded and held Roy Blunt's House of Representative seat (Missouri - 7th) from 2011 to 2023. Attempted to succeed Blunt again
+    for Senate in 2022, but lost in primary against Eric Schmitt.`,
+    controversies: [`Defended Brett Kavanaugh by retweeting a comparison of Kavanaugh's sexual assault allegations to a "kiss on the forehead"`],
+    positions: [`Supported Trump's 2017 travel ban`, `Condemned the Obergefell v. Hodges ruling (same-sex marriage bans are unconstitutional)`, 
+    `Supported the Texax v. Pennasylvania lawsuit that contested the 2020 presidential election results as fraudulent.`, `Has often voiced demand to 
+    abolish the IRS and replace the income, estate and other taxes with a regressive 30% national sales tax`, `Has assisted businesses in attaining
+    the Employee Retention Tax Credit, a problematic program with a history of encouraging fraud`, `While a member of the Health Subcommittee, was
+    scrutinized for his purchase of stock from Innate Immunotherapeutics and possible involvement in the Rep. Chris Collins' insider trading scandal`,
+    `Has called for the IRS to strip the tax-exempt status from the Humane Society`
+    ],
+    fun_facts: [`In 2018, Long drowned out far-right internet personality, Laura Loomer, with a mock auction call to sell Loomer's phone
+    as she was escorted from a Senate hearing (about anti-conservative bias on Twitter) after she interrupted the meeting.`],
+    assessment: ``
   },
   "daniel-driscoll": {
     education: "",
@@ -1013,6 +1045,60 @@ export const data = {
     assessment: ""
   },
   "dan-bishop": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "andrew-ferguson": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "alina-habba": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "david-sacks": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "kari-lake": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "warren-stephens": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "devin-nunes": {
     education: "",
     background: "",
     professional: "",

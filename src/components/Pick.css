@@ -6,7 +6,7 @@
   flex-flow: column nowrap;
 }
 
-.pick-title-box {
+.pick-role-box {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,53 +14,59 @@
   border-bottom: 1px solid lightgrey;
 }
 
-.pick-title-box img {
+.pick-role-box img {
   height: 150px;
   width: 150px;
   border-radius: 5px;
   background-color: #d3c6df;;
 }
 
-.pick-title {
+.pick-role {
   margin-left: 25px;
   padding-bottom: 10px;
 }
 
-.pick-title__name {
+.pick-role__name {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 32px;
   font-weight: 800;
 }
 
-.pick-title__title {
+.pick-role__title {
   margin: 5px 0px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
   color: grey;
 }
 
-.pick-title_announced, .pick-title_named {
+.pick-role__title:hover {
+  color: rgb(85, 85, 85);
+}
+
+.pick-role__announced, .pick-role__named, .pick-role__withdrawn, .pick-role__elected {
   padding: 5px 15px;
   display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 600;
   margin: 5px 0px;
-  color: var(--darker);
-  background-color: var(--lighter);
   border-radius: 2px;
 }
 
-.pick-title_withdrawn {
-  padding: 5px 10px;
-  display: inline-block;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: 600;
-  margin: 5px 0px;
-  color: white;
+.pick-role__announced, .pick-role__named {
+  background-color: var(--lighter);
+  color: var(--darker);
+}
+
+.pick-role__elected {
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+.pick-role__withdrawn {
   background-color: brown;
+  color: white;
 }
 
 .pick-data-box {

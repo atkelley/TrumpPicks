@@ -1,0 +1,127 @@
+.main {
+  margin: 40px 0px 0px 0px;
+}
+
+section {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+}
+
+h2 {
+  font-family: 'Garamond';
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  margin: 10px;
+}
+
+.pics-box {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 25px;
+  margin: 25px auto;
+  width: 60%;
+}
+
+a {
+  text-decoration: none;
+  border-radius: 5px;
+  flex: 0 0 90px;
+}
+
+a:hover {
+  box-shadow: 2px 2px 5px var(--darker);
+}
+
+a:hover:has(.withdrawn) {
+  box-shadow: 2px 2px 5px brown;
+}
+
+a:hover:has(.elected) {
+  box-shadow: 2px 2px 5px darkgreen;
+}
+
+a:hover:has(.vacant) {
+  box-shadow: 2px 2px 5px grey;
+}
+
+a:hover .image-box .caption {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.image-box {
+  display: flex;
+  flex-flow: column wrap;
+  padding-bottom: 10px;
+}
+
+.image-box img {
+  height: var(--image-box-width);
+  width: var(--image-box-width);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: var(--background-color);
+}
+
+.caption {
+  text-align: center;
+  width: var(--image-box-width);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 3px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.announced, .named {
+  background-color: var(--lighter);
+  color: var(--darker);
+}
+
+.elected {
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+.withdrawn {
+  background-color: brown;
+  color: white;
+}
+
+.vacant {
+  background-color: lightgrey;
+  color: white;
+}
+
+.title-box {
+  width: 80px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  margin: 0 10px;
+  word-break: break-word;
+}
+
+.title, .name {
+  font-family: var(--franklin);
+  color: black;
+  font-size: 12px;
+  margin: 0;
+}
+
+.title {
+  font-weight: 800;
+  padding: 10px 0px 0px 0px;
+}
+
+.name {
+  padding: 5px 0px 0px 0px;
+  letter-spacing: .025rem;
+}

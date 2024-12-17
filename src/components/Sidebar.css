@@ -1,0 +1,33 @@
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  border-right: 2px double black;
+  background-color: white;
+  transition: width 1s ease-in-out;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.arrows-box {
+  text-align: right;
+}
+
+.arrows-box img {
+  height: 50px;
+  width: 50px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.departments {
+  list-style-type: none;
+  padding: 0px;
+
+}
+
+.departments li {
+  padding: 10px 20px;
+  border: 1px solid black;
+}

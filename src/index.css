@@ -4,13 +4,8 @@ html {
   --background-color: #d3c6df;
   --lighter: #fce4ba;
   --darker: #9f6700;
-
 }
 
 body {
   margin: 0;
-}
-
-.container {
-  margin: 40px 0px;
 }

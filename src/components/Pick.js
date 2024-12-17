@@ -1,20 +1,20 @@
-import { useLocation } from 'react-router-dom';
-import { data } from './data.js';
+import { useLocation, Link } from 'react-router-dom';
+import { data } from '../data/data.js';
 import './Pick.css';
 
 export default function Pick() {
-  const { state: { name, image, title, status } } = useLocation();
+  const { state: { name, image, title, title_url, status } } = useLocation();
   const { education, background, professional, controversies, positions, fun_facts, assessment, special } = data[image];
 
   return (
     <div className="pick">
-      <div className="pick-title-box">
+      <div className="pick-role-box">
         <img src={`/images/${image}.png`} alt={name} />
 
-        <div className="pick-title">
-          <p className="pick-title__name">{name}</p>
-          <p className="pick-title__title">{title}</p>
-          <p className={`pick-title_${status.toLowerCase()}`}>{status}</p>
+        <div className="pick-role">
+          <p className="pick-role__name">{name}</p>
+          <Link to={title_url} target="_blank" rel="noopener noreferrer"><p className="pick-role__title">{title}</p></Link>
+          <p className={`pick-role__${status.toLowerCase()}`}>{status}</p>
         </div>
       </div>
 

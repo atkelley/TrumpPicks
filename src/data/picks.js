@@ -5,6 +5,7 @@ export const picks = {
       image: 'pamela-bondi',
       department: 'AG', 
       title: "United States Attorney General", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Attorney_General",
       status: "Announced",
     },  
     { 
@@ -12,6 +13,7 @@ export const picks = {
       image: 'marco-rubio',
       department: 'State', 
       title: "Secretary of State", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_State",
       status: "Announced",
     }, 
     { 
@@ -19,6 +21,7 @@ export const picks = {
       image: 'pete-hegseth',
       department: 'Defense', 
       title: "Secretary of Defense", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense",
       status: "Announced",
     },  
     { 
@@ -26,6 +29,7 @@ export const picks = {
       image: 'kristi-noem',
       department: 'Homeland', 
       title: "Secretary of Homeland Security", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Homeland_Security",
       status: "Announced",
     },  
     { 
@@ -33,6 +37,7 @@ export const picks = {
       image: 'lori-chavez-deremer',
       department: 'Labor', 
       title: "Secretary of Labor", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Labor",
       status: "Announced",
     },      
     { 
@@ -40,6 +45,7 @@ export const picks = {
       image: 'robert-kennedy-jr',
       department: 'HHS', 
       title: "Secretary of Health & Human Services", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Health_and_Human_Services",
       status: "Announced",
     },      
     { 
@@ -47,6 +53,7 @@ export const picks = {
       image: 'doug-burgum',
       department: 'Interior', 
       title: "Secretary of the Interior", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Interior",
       status: "Announced",
     },  
     { 
@@ -54,6 +61,7 @@ export const picks = {
       image: 'doug-collins',
       department: 'VA', 
       title: "Secretary of Veteran Affairs", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Veterans_Affairs",
       status: "Announced",
     },      
     { 
@@ -61,6 +69,7 @@ export const picks = {
       image: 'scott-bessent',
       department: 'Treasury', 
       title: "Secretary of the Treasury", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Treasury",
       status: "Announced",
     },  
     { 
@@ -68,6 +77,7 @@ export const picks = {
       image: 'brooke-rollins',
       department: 'Agriculture', 
       title: "Secretary of Agriculture", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Agriculture",
       status: "Announced",
     },     
     { 
@@ -75,6 +85,7 @@ export const picks = {
       image: 'howard-lutnick',
       department: 'Commerce', 
       title: "Secretary of Commerce", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Commerce",
       status: "Announced",
     },  
     { 
@@ -82,6 +93,7 @@ export const picks = {
       image: 'sean-duffy',
       department: 'Transport.', 
       title: "Secretary of Transportation", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Transportation",
       status: "Announced",
     },      
     { 
@@ -89,6 +101,7 @@ export const picks = {
       image: 'chris-wright',
       department: 'Energy', 
       title: "Secretary of Energy", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Energy",
       status: "Announced",
     }, 
     { 
@@ -96,6 +109,7 @@ export const picks = {
       image: 'linda-mcmahon',
       department: 'Education', 
       title: "Secretary of Education", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Education",
       status: "Announced",
     },  
     { 
@@ -103,6 +117,7 @@ export const picks = {
       image: 'scott-turner',
       department: 'Housing', 
       title: "Secretary of Housing & Urban Development", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Housing_and_Urban_Development",
       status: "Announced",
     }, 
     { 
@@ -110,6 +125,7 @@ export const picks = {
       image: 'john-ratcliffe',
       department: 'CIA', 
       title: "Director of the Central Intelligence Agency", 
+      title_url: "https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency",
       status: "Announced",
     },  
 
@@ -118,6 +134,7 @@ export const picks = {
       image: 'kash-patel',
       department: 'FBI', 
       title: "Director of the Federal Bureau of Investigation", 
+      title_url: "https://en.wikipedia.org/wiki/Director_of_the_Federal_Bureau_of_Investigation",
       status: "Announced",
     },  
     { 
@@ -125,6 +142,7 @@ export const picks = {
       image: 'tulsi-gabbard',
       department: 'DNI', 
       title: "Director of National Intelligence", 
+      title_url: "https://en.wikipedia.org/wiki/Director_of_National_Intelligence",
       status: "Announced",
     },      
     { 
@@ -132,6 +150,7 @@ export const picks = {
       image: 'mehmet-oz',
       department: 'MMS', 
       title: "Administrator of the Centers for Medicare and Medicaid Services", 
+      title_url: "https://en.wikipedia.org/wiki/Centers_for_Medicare_%26_Medicaid_Services",
       status: "Announced",
     },  
     { 
@@ -139,6 +158,7 @@ export const picks = {
       image: 'lee-zeldin',
       department: 'EPA', 
       title: "Administrator of the Environmental Protection Agency", 
+      title_url: "https://en.wikipedia.org/wiki/Administrator_of_the_Environmental_Protection_Agency",
       status: "Announced",
     },      
     { 
@@ -146,20 +166,23 @@ export const picks = {
       image: 'elise-stefanik',
       department: 'UN', 
       title: "Ambassador to the United Nations", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_the_United_Nations",
       status: "Announced",
     },  
     { 
       name: 'Martin Makary', 
       image: 'martin-makary',
       department: 'FDA', 
-      title: "Director of the Food & Drug Administration", 
+      title: "Commissioner of Food & Drugs", 
+      title_url: "https://en.wikipedia.org/wiki/Commissioner_of_Food_and_Drugs",
       status: "Announced",
     },      
     { 
       name: 'Matthew Whitaker', 
       image: 'matthew-whitaker',
       department: 'NATO', 
-      title: "Ambassador to the North Atlantic Treaty Organization", 
+      title: "Permanent Representative to the North Atlantic Treaty Organization",
+      title_url: "https://en.wikipedia.org/wiki/List_of_United_States_permanent_representatives_to_NATO",
       status: "Announced",
     },  
     { 
@@ -167,6 +190,7 @@ export const picks = {
       image: 'dave-weldon',
       department: 'CDC', 
       title: "Director of the Centers for Disease Control and Prevention", 
+      title_url: "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
       status: "Announced",
     },      
     { 
@@ -174,6 +198,7 @@ export const picks = {
       image: 'janette-nesheiwat',
       department: 'Surgeon General', 
       title: "Surgeon General of the United States", 
+      title_url: "https://en.wikipedia.org/wiki/Surgeon_General_of_the_United_States",
       status: "Announced",
     },  
     { 
@@ -181,6 +206,7 @@ export const picks = {
       image: 'russell-vought',
       department: 'OMB', 
       title: "Director of the Office of Management and Budget", 
+      title_url: "https://en.wikipedia.org/wiki/Office_of_Management_and_Budget",
       status: "Announced",
     },      
     { 
@@ -188,6 +214,7 @@ export const picks = {
       image: 'jamieson-greer',
       department: 'Trade Rep.', 
       title: "United States Trade Representative", 
+      title_url: "https://en.wikipedia.org/wiki/Office_of_the_United_States_Trade_Representative",
       status: "Announced",
     }, 
     { 
@@ -195,6 +222,7 @@ export const picks = {
       image: 'jay-bhattacharya',
       department: 'NIH', 
       title: "Director of the National Institutes of Health", 
+      title_url: "https://en.wikipedia.org/wiki/Director_of_the_National_Institutes_of_Health",
       status: "Announced",
     }, 
     { 
@@ -202,6 +230,7 @@ export const picks = {
       image: 'd-john-sauer',
       department: 'SG', 
       title: "Solicitor General of the United States", 
+      title_url: "https://en.wikipedia.org/wiki/Solicitor_General_of_the_United_States",
       status: "Announced",
     }, 
     { 
@@ -209,6 +238,7 @@ export const picks = {
       image: 'john-phelan',
       department: 'Navy', 
       title: "Secretary of the Navy", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Navy",
       status: "Announced",
     }, 
     { 
@@ -216,6 +246,7 @@ export const picks = {
       image: 'jim-oneill',
       department: 'Dep. HHS', 
       title: "Deputy Secretary of Health and Human Services", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Deputy_Secretary_of_Health_and_Human_Services",
       status: "Announced",
     }, 
     { 
@@ -223,6 +254,7 @@ export const picks = {
       image: 'todd-blanche',
       department: 'Dep. AG', 
       title: "Deputy Attorney General", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Deputy_Attorney_General",
       status: "Announced",
     }, 
     { 
@@ -230,6 +262,7 @@ export const picks = {
       image: 'mike-huckabee',
       department: 'Amb. to Israel', 
       title: "Ambassador to Israel", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Israel",
       status: "Announced",
     }, 
     { 
@@ -237,6 +270,7 @@ export const picks = {
       image: 'pete-hoekstra',
       department: 'Amb. to Canada', 
       title: "Ambassador to Canada", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Canada",
       status: "Announced",
     }, 
     { 
@@ -244,6 +278,7 @@ export const picks = {
       image: 'charles-kushner',
       department: 'Amb. to France', 
       title: "Ambassador to France", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_France",
       status: "Announced",
     }, 
     { 
@@ -251,6 +286,7 @@ export const picks = {
       image: 'david-perdue',
       department: 'Amb. to China', 
       title: "Ambassador to China", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_China",
       status: "Announced",
     }, 
     { 
@@ -258,6 +294,7 @@ export const picks = {
       image: 'brandon-judd',
       department: 'Amb. to Chile', 
       title: "Ambassador to Chile", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Chile",
       status: "Announced",
     },
     { 
@@ -265,6 +302,7 @@ export const picks = {
       image: 'kimberly-guilfoyle',
       department: 'Amb. to Greece', 
       title: "Ambassador to Greece", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Greece",
       status: "Announced",
     },
     { 
@@ -272,6 +310,7 @@ export const picks = {
       image: 'thomas-barrack-jr',
       department: 'Amb. to Turkey', 
       title: "Ambassador to Turkey", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Turkey",
       status: "Announced",
     },
     { 
@@ -279,6 +318,15 @@ export const picks = {
       image: 'ronald-johnson',
       department: 'Amb. to Mexico', 
       title: "Ambassador to Mexico", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_Mexico",
+      status: "Announced",
+    },
+    { 
+      name: 'Warren Stephens', 
+      image: 'warren-stephens',
+      department: 'Amb. to UK', 
+      title: "Ambassador to the United Kingdom", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_the_United_Kingdom",
       status: "Announced",
     },
     { 
@@ -286,6 +334,7 @@ export const picks = {
       image: 'kelly-loeffler',
       department: 'SBA', 
       title: "Administrator of the Small Business Administration", 
+      title_url: "https://en.wikipedia.org/wiki/Administrator_of_the_Small_Business_Administration",
       status: "Announced",
     }, 
     { 
@@ -293,6 +342,7 @@ export const picks = {
       image: 'frank-bisignano',
       department: 'SS', 
       title: "Commissioner of the Social Security Administrations", 
+      title_url: "https://en.wikipedia.org/wiki/Social_Security_Administration",
       status: "Announced",
     }, 
     { 
@@ -300,13 +350,15 @@ export const picks = {
       image: 'jared-isaacman',
       department: 'NASA', 
       title: "Administrator of the National Aeronautics and Space Administration", 
+      title_url: "https://en.wikipedia.org/wiki/Administrator_of_NASA",
       status: "Announced",
     }, 
     { 
       name: 'Paul Atkins', 
       image: 'paul-atkins',
       department: 'SEC', 
-      title: "Chairman of the Securities and Exchange Commission", 
+      title: "Chair of the Securities and Exchange Commission", 
+      title_url: "https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission",
       status: "Announced",
     }, 
     { 
@@ -314,6 +366,7 @@ export const picks = {
       image: 'billy-long',
       department: 'IRS', 
       title: "Commissioner of Internal Revenue Service", 
+      title_url: "https://en.wikipedia.org/wiki/Commissioner_of_Internal_Revenue",
       status: "Announced",
     }, 
     { 
@@ -321,6 +374,7 @@ export const picks = {
       image: 'daniel-driscoll',
       department: 'Army', 
       title: "Secretary of the Army", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Army",
       status: "Announced",
     }, 
     { 
@@ -328,6 +382,7 @@ export const picks = {
       image: 'michael-faulkender',
       department: 'Dep. Treasury', 
       title: "Deputy Secretary of the Treasury", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Deputy_Secretary_of_the_Treasury",
       status: "Announced",
     }, 
     { 
@@ -335,6 +390,7 @@ export const picks = {
       image: 'dan-bishop',
       department: 'Dep. OMB', 
       title: "Deputy Director of the Office of Management and Budget", 
+      title_url: "https://en.wikipedia.org/wiki/Office_of_Management_and_Budget",
       status: "Announced",
     }, 
     { 
@@ -342,6 +398,7 @@ export const picks = {
       image: 'harmeet-dhillon',
       department: 'Asst. AG (Civil Rights)', 
       title: "Assistant Attorney General for the Civil Rights Division", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Department_of_Justice_Civil_Rights_Division",
       status: "Announced",
     }, 
     { 
@@ -349,6 +406,7 @@ export const picks = {
       image: 'gail-slater',
       department: 'Asst. AG (Antitrust)', 
       title: "Assistant Attorney General for the Antitrust Division", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Department_of_Justice_Antitrust_Division",
       status: "Announced",
     }, 
     { 
@@ -356,6 +414,7 @@ export const picks = {
       image: 'adam-boehler',
       department: 'Hostage Affairs', 
       title: "Special Envoy for Hostage Affairs", 
+      title_url: "https://en.wikipedia.org/wiki/Special_Presidential_Envoy_for_Hostage_Affairs",
       status: "Announced",
     }, 
     { 
@@ -363,6 +422,7 @@ export const picks = {
       image: 'placeholder',
       department: 'CEA', 
       title: "Chair of the Council of Economic Advisers", 
+      title_url: "https://en.wikipedia.org/wiki/Council_of_Economic_Advisers",
       status: "Vacant",
     }, 
   ],
@@ -372,49 +432,56 @@ export const picks = {
       name: 'JD Vance', 
       image: 'jd-vance',
       department: 'VP', 
-      title: "Vice President", 
+      title: "United States Vice President", 
+      title_url: "https://en.wikipedia.org/wiki/Vice_President_of_the_United_States",
       status: "Elected",
     }, 
     { 
       name: 'Susie Wiles', 
       image: 'susie-wiles',
       department: 'Chief of Staff', 
-      title: "Chief of Staff", 
+      title: "White House Chief of Staff", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Chief_of_Staff",
       status: "Named",
     }, 
     { 
       name: 'James Blair', 
       image: 'james-blair',
       department: 'DCS', 
-      title: "Deputy Chief of Staff", 
+      title: "White House Deputy Chief of Staff (for Legislative, Political and Public Affairs)", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Deputy_Chief_of_Staff",
       status: "Named",
     }, 
     { 
       name: 'Taylor Budowich', 
       image: 'taylor-budowich',
       department: 'DCS', 
-      title: "Deputy Chief of Staff", 
+      title: "White House Deputy Chief of Staff (for Communications and Personnel)", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Deputy_Chief_of_Staff",
       status: "Named",
     }, 
     { 
       name: 'Stephen Miller', 
       image: 'stephen-miller',
-      department: 'DCS', 
-      title: "Deputy Chief of Staff", 
+      department: 'HSA', 
+      title: "Assistant to the President for Homeland Security and Counterterrorism (Homeland Security Advisor)", 
+      title_url: "https://en.wikipedia.org/wiki/Homeland_Security_Advisor",
       status: "Named",
     }, 
     { 
       name: 'Dan Scavino', 
       image: 'dan-scavino',
       department: 'DCS', 
-      title: "Deputy Chief of Staff", 
+      title: "White House Deputy Chief of Staff", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Deputy_Chief_of_Staff",
       status: "Named",
     }, 
     { 
       name: 'Thomas Homan', 
       image: 'thomas-homan',
-      department: 'Border Czar', 
-      title: "United States Presidential Advisor on Border Security", 
+      department: 'ICE', 
+      title: "Director of the U.S. Immigration and Customs Enforcement", 
+      title_url: "https://en.wikipedia.org/wiki/Director_of_the_U.S._Immigration_and_Customs_Enforcement",
       status: "Named",
     }, 
     { 
@@ -422,6 +489,7 @@ export const picks = {
       image: 'michael-waltz',
       department: 'NSA', 
       title: "United States National Security Advisor", 
+      title_url: "https://en.wikipedia.org/wiki/National_Security_Advisor_(United_States)",
       status: "Named",
     }, 
     { 
@@ -429,6 +497,7 @@ export const picks = {
       image: 'bill-mcginley',
       department: 'WH Counsel', 
       title: "White House Counsel", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Counsel",
       status: "Named",
     }, 
     { 
@@ -436,48 +505,55 @@ export const picks = {
       image: 'steven-cheung',
       department: 'Comm. Director', 
       title: "White House Communications Director", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Communications_Director",
       status: "Named",
     }, 
     { 
       name: 'Karoline Leavitt', 
       image: 'karoline-leavitt',
       department: 'Press Secretary', 
-      title: "Press Secretary", 
+      title: "White House Press Secretary", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Press_Secretary",
       status: "Named",
     }, 
     { 
       name: 'Will Scharf', 
       image: 'will-scharf',
       department: 'Press Secretary', 
-      title: "Press Secretary", 
+      title: "White House Press Secretary", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Press_Secretary",
       status: "Named",
     }, 
     { 
       name: 'Sergio Gor', 
       image: 'sergio-gor',
-      department: 'Personnel', 
+      department: 'PPO', 
       title: "Director of the White House Presidential Personnel Office", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Presidential_Personnel_Office",
       status: "Named",
     }, 
     { 
       name: 'Elon Musk', 
       image: 'elon-musk',
       department: 'Efficiency', 
-      title: "Co-Commissioner of the Department of Government Efficiency", 
+      title: "Co-Chair of the Department of Government Efficiency", 
+      title_url: "https://en.wikipedia.org/wiki/Department_of_Government_Efficiency",
       status: "Named",
     }, 
     { 
       name: 'Vivek Ramaswamy', 
       image: 'vivek-ramaswamy',
       department: 'Efficiency', 
-      title: "Co-Commissioner of the Department of Government Efficiency", 
+      title: "Co-Chair of the Department of Government Efficiency", 
+      title_url: "https://en.wikipedia.org/wiki/Department_of_Government_Efficiency",
       status: "Named",
     }, 
     { 
       name: 'Brendan Carr', 
       image: 'brendan-carr',
       department: 'FCC', 
-      title: "Chairman of the Federal Communications Commission", 
+      title: "Chair of the Federal Communications Commission", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_chairs_of_the_Federal_Communications_Commission",
       status: "Named",
     }, 
     { 
@@ -485,6 +561,7 @@ export const picks = {
       image: 'alex-wong',
       department: 'Dep. NSA', 
       title: "United States Principal Deputy National Security Advisor", 
+      title_url: "https://en.wikipedia.org/wiki/Deputy_National_Security_Advisor",
       status: "Named",
     }, 
     { 
@@ -492,13 +569,15 @@ export const picks = {
       image: 'sebastian-gorka',
       department: 'Dep. Asst. to the President (DFC)', 
       title: "Deputy Assistant to the President and Senior Director for Counterterrorism", 
+      title_url: "https://en.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States",
       status: "Named",
     }, 
     { 
       name: 'Steven Witkoff', 
       image: 'steven-witkoff',
       department: 'Middle East envoy', 
-      title: "Special Envoy to the Middle East", 
+      title: "Special Envoy for Middle East", 
+      title_url: "https://en.wikipedia.org/wiki/Ambassadors_of_the_United_States#Special_envoys,_representatives,_and_coordinators",
       status: "Named",
     }, 
     { 
@@ -506,6 +585,7 @@ export const picks = {
       image: 'james-braid',
       department: 'OLA', 
       title: "Assistant to the President and Director of the Office of Legislative Affairs", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Director_of_Legislative_Affairs",
       status: "Named",
     }, 
     { 
@@ -513,13 +593,15 @@ export const picks = {
       image: 'placeholder',
       department: 'OPA', 
       title: "Director of the Office of Political Affairs", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Political_Director",
       status: "Named",
     }, 
     { 
       name: 'Alex Latcham', 
       image: 'alex-latcham',
-      department: 'Dep. Asst. to the President (OPL)', 
+      department: 'OPL', 
       title: "Deputy Assistant to the President and Director of the Office of Public Liaison", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Office_of_Public_Engagement",
       status: "Named",
     }, 
     { 
@@ -527,6 +609,7 @@ export const picks = {
       image: 'vince-haley',
       department: 'DPC', 
       title: "Director of the Domestic Policy Council", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Domestic_Policy_Council",
       status: "Named",
     }, 
     { 
@@ -534,6 +617,7 @@ export const picks = {
       image: 'kevin-hassett',
       department: 'NEC', 
       title: "Director of the National Economic Council", 
+      title_url: "https://en.wikipedia.org/wiki/National_Economic_Council_(United_States)",
       status: "Named",
     }, 
     { 
@@ -541,6 +625,7 @@ export const picks = {
       image: 'keith-kellogg',
       department: 'Ukraine & Russia envoy', 
       title: "Special Envoy for Ukraine and Russia", 
+      title_url: "https://en.wikipedia.org/wiki/Ambassadors_of_the_United_States#Special_envoys,_representatives,_and_coordinators",
       status: "Named",
     }, 
     { 
@@ -548,6 +633,7 @@ export const picks = {
       image: 'massad-boulos',
       department: 'Senior advisor', 
       title: "Senior Advisor to the President on Arab and Middle Eastern Affairs", 
+      title_url: "",
       status: "Named",
     }, 
     { 
@@ -555,6 +641,7 @@ export const picks = {
       image: 'david-warrington',
       department: 'White House Counsel', 
       title: "White House Counsel", 
+      title_url: "https://en.wikipedia.org/wiki/White_House_Counsel",
       status: "Named",
     },
     { 
@@ -562,6 +649,7 @@ export const picks = {
       image: 'peter-navarro',
       department: 'Senior counselor', 
       title: "Senior Counselor to the President", 
+      title_url: "https://en.wikipedia.org/wiki/Counselor_to_the_President",
       status: "Named",
     }, 
     { 
@@ -569,6 +657,47 @@ export const picks = {
       image: 'caleb-vitello',
       department: 'ICE', 
       title: "Acting Director of U.S. Immigration and Customs Enforcement", 
+      title_url: "Director of the U.S. Immigration and Customs Enforcement",
+      status: "Named",
+    }, 
+    { 
+      name: 'Andrew Ferguson', 
+      image: 'andrew-ferguson',
+      department: 'FTC', 
+      title: "Chair of the Federal Trade Commission", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_members_of_the_Federal_Trade_Commission",
+      status: "Named",
+    }, 
+    { 
+      name: 'Alina Habba', 
+      image: 'alina-habba',
+      department: 'Pres. Counselor', 
+      title: "Counselor to the President", 
+      title_url: "https://en.wikipedia.org/wiki/Counselor_to_the_President",
+      status: "Named",
+    }, 
+    { 
+      name: 'David Sacks', 
+      image: 'david-sacks',
+      department: 'AI & Crypto Czar', 
+      title: "White House AI & Crypto Czar", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_U.S._executive_branch_czars",
+      status: "Named",
+    }, 
+    { 
+      name: 'Kari Lake', 
+      image: 'kari-lake',
+      department: 'VOA', 
+      title: "Director of Voice of America",
+      title_url: "https://en.wikipedia.org/wiki/Voice_of_America", 
+      status: "Named",
+    }, 
+    { 
+      name: 'Devin Nunes', 
+      image: 'placeholder',
+      department: 'PIAB', 
+      title: "Chair of the President's Intelligence Advisory Board", 
+      title_url: "https://en.wikipedia.org/wiki/President%27s_Intelligence_Advisory_Board",
       status: "Named",
     }, 
   ],
@@ -579,6 +708,7 @@ export const picks = {
       image: 'matt-gaetz',
       department: 'AG', 
       title: "Attorney General", 
+      title_url: "https://en.wikipedia.org/wiki/United_States_Attorney_General",
       status: "Withdrawn",
     }, 
     { 
@@ -586,6 +716,7 @@ export const picks = {
       image: 'chad-chronister',
       department: 'DEA', 
       title: "Administrator of the Drug Enforcement Administration", 
+      title_url: "https://en.wikipedia.org/wiki/Administrator_of_the_Drug_Enforcement_Administration",
       status: "Withdrawn",
     }, 
   ]
