@@ -330,6 +330,14 @@ export const picks = {
       status: "Announced",
     },
     { 
+      name: 'Herschel Walker', 
+      image: 'herschel-walker',
+      department: 'Amb. to Bahamas', 
+      title: "Ambassador to the Bahamas", 
+      title_url: "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_United_States_to_the_Bahamas",
+      status: "Announced",
+    },
+    { 
       name: 'Kelly Loeffler', 
       image: 'kelly-loeffler',
       department: 'SBA', 
@@ -590,7 +598,7 @@ export const picks = {
     }, 
     { 
       name: 'Matt Brasseaux', 
-      image: 'placeholder',
+      image: 'matt-brasseaux',
       department: 'OPA', 
       title: "Director of the Office of Political Affairs", 
       title_url: "https://en.wikipedia.org/wiki/White_House_Political_Director",
@@ -694,7 +702,7 @@ export const picks = {
     }, 
     { 
       name: 'Devin Nunes', 
-      image: 'placeholder',
+      image: 'devin-nunes',
       department: 'PIAB', 
       title: "Chair of the President's Intelligence Advisory Board", 
       title_url: "https://en.wikipedia.org/wiki/President%27s_Intelligence_Advisory_Board",

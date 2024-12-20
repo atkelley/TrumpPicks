@@ -88,7 +88,7 @@ export const data = {
     assessment: ""
   },
   "lori-chavez-deremer": {
-    education: "Bachelor's from CSU - Fresno (business administration)",
+    education: "Bachelor's from CSU Fresno (business administration)",
     background: "",
     professional: `Elected city council (2004) then mayor of Happy Valley (2010 - 2018), Oregon. In both 2016 and 2018, ran unopposed for Republican primary for Oregon House of Representatives
     (District 51), but lost both times to Janelle Bynum in the general elections by slim margins. Formed a PAC in 2017 to explore a gubernatorial bid for 2018 election, but eventually
@@ -133,7 +133,7 @@ export const data = {
     fun_facts: [
       `An avid falconer and kayaker`, `Married 3 times (with 6 kids), divorced twice`, `Lifelong philanderer. 2nd wife committed suicide 
       after finding his journal detailing 37 other women (that would do it). Fought and won legal battle against her siblings to have her buried 
-      in the Kennedy family plot, despite her wanting to be buried near them (in NY). Later disinterred her and reburied her in an empty 
+      in the Kennedy family plot, despite her wanting to be buried near them (in NY). Later disinterred her corpse and reburied it in an empty 
       section of the cemetery and bought the 50 spaces around her for future Kennedy family members (petty much?)`, `Other crazy stories 
       include: his 'brain worm' testimony (from 2012 court deposition describing his brain fog and short & long-term memory problems), 
       the 'bear meat' story (found dead bear cub hit by car in Central Park in 2014 and was going to skin it to eat it until decided 
@@ -205,13 +205,23 @@ export const data = {
     assessment: ""
   },
   "brooke-rollins": {
-    education: "",
-    background: "",
-    professional: "",
+    education: `attained degrees from Texas A&M University (cum laude in agricultural development) and University of Texas Law School (with honors)`,
+    background: `raised on farm in Glen Rose, TX. While at Texas A&M, was first female to be elected student body president. Served as speaker 
+    pro tempore in Student Senate, a counselor at "Fish Camp" (new student orientation), the chair at Judicial Court and was a Cotton Bowl Classic Queen.`,
+    professional: `After graduation, spent several years at Hughes & Luce LLP (multinational corporate law firm), then clerked under U.S. Federal District 
+    Court judge, Barbara M. Lynn, then served as deputy general counsel, ethics advisor, and policy director to governor, Rick Perry. From 2003 to 2018,
+    was president and CEO of Texas Public Policy Foundation (a conservative think-tank from Austin) and oversaw their expansion from 3 to 100 staff members.
+    In 2018, became Trump's new assistant to the president for intergovernmental and technology initiatives and a member of the Office of American Innovation
+    (a new office created during Trump's first administration that acted as a liason between the White House and the tech industry). In 2020, was named
+    acting director of the Domestic Policy Council (coordinates advice and development of the policy-making process between the President, Cabinet
+    members and other senior White House officials). Was Trump's mouthpiece claiming the creation of political consensus during the George Floyd riots. 
+    After the 2020 election, joined Larry Ludlow in forming the America First Policy Institute (promoted Trump's public policy agenda) and became its first 
+    president and CEO. In 2021, launched the Save America Coalition (to counter Biden's $3.5T economic proposal).`,
     controversies: [],
-    positions: [],
+    positions: [`strong advocate of criminal justice reform. Was influential in the passage of the First Step Act (legislation designed to reform the nation's 
+    prison system and combat recidivism)`],
     fun_facts: [],
-    assessment: ""
+    assessment: ``
   },
   "howard-lutnick": {
     education: "",
@@ -289,7 +299,7 @@ export const data = {
     Community Engagement & Opportunity Council (an organization credited with renovating the Literacy Lab in Bonton, TX).`,
     controversies: [],
     positions: [],
-    fun_facts: [`Told his mother when he was 10 that he'd play in the NFL someday.`, `Turner and his wife, Robin Turner, own Statesman Clothiers, 
+    fun_facts: [`Told his mother when he was 10 that he'd play in the NFL someday`, `Turner and his wife, Robin Turner, own Statesman Clothiers, 
     a custom men's clothing company`, `Serves as an associate pastor at Prestonwood Baptist Church (in Plano, TX)`, `Received an honorary doctorate from Dallas 
     Baptist University in 2016`],
     assessment: ""
@@ -429,13 +439,20 @@ export const data = {
     assessment: ""
   },
   "dave-weldon": {
-    education: "",
-    background: "",
-    professional: "",
+    education: `degrees from Stony Brook University and University at Buffalo School of Medicine`,
+    background: `born in Amityville, NY (Long Island). After college, opened medical practice in Malabar, FL and served in U.S. Army (1981 - 1987) and the 
+    Army Reserves (1987 - 1992).`,
+    professional: `Served as U.S. House Representative (FL - 15th) from 1995 to 2009, before returning to his medical practice. During his tenure, he introduced
+    "the Weldon Amendment" to an appropriations measure that prevents healthcare programs that receive federal funding from requiring healthcare entities (doctors, 
+    hospitals, health insurance plans, etc.) to provide, refer or pay for abortion services. During the Terri Schiavo legal battle, he introduced legislation that would 
+    force a review of the case by the federal government. He also introduced legislation that would transfer vaccine safety oversight from the CDC to an independent 
+    agency within the HHS, citing conflict of interest and concerns about the integrity of the federal vaccine safety review process. In 2012, made a senate run (FL), 
+    but was beaten in the primary by Connie Mack IV. Also ran for U.S. House of Representatives (FL - 32nd) again in 2024, but lost in the primary to Debbie Mayfield.`,
     controversies: [],
-    positions: [],
-    fun_facts: [],
-    assessment: ""
+    positions: [`Has publicly questioned the safety of specific vaccines (measles, mumps, rubella and Gardasil, which protects against certain strains of HPV)`, 
+    `Has promoted the disproven claim that thimerosal is linked to an increase in autism`],
+    fun_facts: [`Played bass for "The Second Amendments", a group of congressmen who played rock and country music to troops stationed overseas during the holidays`],
+    assessment: ``
   },
   "janette-nesheiwat": {
     education: `
@@ -461,13 +478,32 @@ export const data = {
     assessment: ""
   },
   "russell-vought": {
-    education: "",
-    background: "",
-    professional: "",
-    controversies: [],
-    positions: [],
+    education: `earned degrees from Wheaton College and George Washington University Law School`,
+    background: `worked for Heritage Action (lobbying arm of the Heritage Foundation) before becoming executive and budget director of the Republican Study Committee,
+    the policy director of the House Republican Conference (both Republican congressional caucuses) and a legislative assistant to Senator Phil Gramm.`,
+    professional: `In 2017, became the deputy director of the OMB (winning the nomination by Pence's tie-breaking vote). In 2019, became director of the OMB,
+    when former director, Mick Mulvaney, was became acting Chief of Staff. As director, he neglected to publish updated economic forecasts, citing the COVID-19 pandemic 
+    as the cause of the disruption. Also in 2020, he published a memo instructing all federal agencies to cease CRT training, claiming that it "engenders division and 
+    resentment within the federal workforce". After Trump left office, formed the Center for Renewing America (an organization affiliated with American Restoration Action 
+    that focuses on combatting CRT). In 2021, was fact-checked by the Washington Post for stating that only 5-7% of Biden's $2.3T infrastructure plan would go towards "actual
+    infrastructure". Later in 2021, told FOX News that the 33-page booklet released by Citizens for Renewing America (the advocacy arm of the CRA) was a "crash course in CRT"
+    and would help parents hold their school boards accountable. In 2022, confirmed that federal agents had conducted a search of the home of Jeffrey Clark (the 
+    CRA's director of ligitation) in an effort to determine which federal officials had attempted to overturn the 2020 election. In 2023, published a paper arguing for a 
+    "dormant NATO and making Europe the primary security provider on the European front". Later, was named policy director of the RNC platform committee.`,
+    controversies: [`During nomination process in 2017, Senator Bernie Sanders questioned him about his remark that "Muslims do not simply have a deficient theology. 
+    They do not know God because they have rejected Jesus Christ his Son, and they stand condemned." (Sanders was then denounced by various Christians for violating 
+    the 'No Religous Test Clause')`, `In 2019, was one of nine government officials who defied a subpoena to testify before Congress, regarding the Trump-Ukraine scandal`,
+    `After the 2020 election, Biden accused him of hindering his transition team by refusing to allow them to meet with OMB staff (usually OMB staff would provide cost 
+    estimates and details of existing programs to the incoming administration)`, `Vought's CRA is a member of the advisory board of Project 2025 and responsible for proposing
+    the reclassification of thousands of merit-based federal civil workers as political appointees (who can then be replaced by loyalists more amendable towards their goals 
+    of infusing the government with "more Christian values")`],
+    positions: [`considers himself a Christian nationalist and seeks to infuse both the government and society with more Christian elements`, `advocates "radical
+    constitutionalism" to reverse the "weaponized wokeness" that has led to decades of corruption within the federal bureaucracy`, `supports expanding presidential
+    authority to authorize the use of the military for domestic law enforcement and civil unrest`, `seeks to reinstate the president's ability to withhold 
+    congressionally-appointed funds`, `proposes to "gut the FBI" and traditional of end the political independence of the Justice Department`, `wants to defund the EPA 
+    to "reduce federal influence and cut bureaucracy"`],
     fun_facts: [],
-    assessment: ""
+    assessment: ``
   },
   "jd-vance": {
     education: "",
@@ -1099,6 +1135,15 @@ export const data = {
     assessment: ""
   },
   "devin-nunes": {
+    education: "",
+    background: "",
+    professional: "",
+    controversies: [],
+    positions: [],
+    fun_facts: [],
+    assessment: ""
+  },
+  "herschel-walker": {
     education: "",
     background: "",
     professional: "",
