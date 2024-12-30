@@ -426,12 +426,12 @@ export const picks = {
       status: "Announced",
     }, 
     { 
-      name: 'Not yet announced', 
-      image: 'placeholder',
+      name: 'Stephen Miran', 
+      image: 'stephen-miran',
       department: 'CEA', 
       title: "Chair of the Council of Economic Advisers", 
       title_url: "https://en.wikipedia.org/wiki/Council_of_Economic_Advisers",
-      status: "Vacant",
+      status: "Announced",
     }, 
   ],
 

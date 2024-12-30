@@ -718,13 +718,19 @@ export const data = {
     assessment: ""
   },
   "todd-blanche": {
-    education: "",
-    background: "",
-    professional: "",
+    education: `briefly attended Beloit College before transferring and attaining degrees from American University School of Public Affairs
+    (political science and international studies) and Brooklyn Law School.`,
+    background: `grew up near Denver, CO. and attended a military boarding school in New Mexico`,
+    professional: `worked as a paralegal for the United States Attorney for the Southern District of New York while attending night classes at law school.
+    After law school, became a prosecutor in the Southern District and co-chief of its violent crimes unit and the White Plains division and worked on 
+    cases dealing with bank and wire fraud, public corruption and racketeering. Later was hired by WilmerHale (an American multinational law firm), then 
+    Cadwalader, Wickersham & Taft (NYC's oldest law firm), where he represented Igor Fruman and Paul Manafort (during his 2016 fraud trial). Eventually, he
+    left to form his own law firm (Blanche Law) to represent Trump during his 2024 criminal trial.`,
     controversies: [],
     positions: [],
-    fun_facts: [],
-    assessment: ""
+    fun_facts: [`Has completed two Ironman triathlons`, `In 2023, was a registered Democrat in New York. In 2024, he moved to Palm Beach Country, FL and 
+    registered as a Republican`, `Have yet to find a photo where he's legitimately smiling or his eyebrows aren't super-furrowed`],
+    assessment: ``
   },
   "d-john-sauer": {
     education: "",
@@ -781,13 +787,15 @@ export const data = {
     assessment: ""
   },
   "james-braid": {
-    education: "",
-    background: "",
-    professional: "",
+    education: `degree from University of North Carolina at Chapel Hill`,
+    background: ``,
+    professional: `formerly the policy director for the House Freedom Caucus (debatably the most influential group in the House GOP), a top policy staffer for 
+    Vice President-elect Vance and Deputy Chief of Staff to Rep. Ted Budd (R - N.C.) and Rep. Mark Sanford (R - S.C.). Also served as White House Liaison at 
+    the Office of Management and Budget during Trump's first administration.`,
     controversies: [],
     positions: [],
     fun_facts: [],
-    assessment: ""
+    assessment: ``
   },
   "matt-brasseaux": {
     education: "",
@@ -1151,6 +1159,21 @@ export const data = {
     positions: [],
     fun_facts: [],
     assessment: ""
+  },
+  "stephen-miran": {
+    education: `degrees from Boston University (economics, philosophy and mathematics) and Harvard University (PhD in economics)`,
+    background: `has worked as a senior strategist at Hudson Bay Capital Management, a co-founder of the asset management firm, 
+    Amberwave Partners and an adjunct fellow at the Manhattan Institute (a non-profit, conservative think tank)`,
+    professional: `served as a senior advisor of economic policy for the Department of the Treasury from 2020 to 2021 (under Steven Mnuchin)`,
+    controversies: [],
+    positions: [`major critic of the independence of the Federal Reserve and believes it should be subject to greater political control`, `In 2020, 
+    was critical of Jerome Powell's (Federal Reserve) endorsement of the major stimulus package`, `In 2024, co-authored a paper with Iranian-American 
+    economist, Nouriel Roubini, which accused the Treasury Department of manipulating the debt market and prolonging inflation by reducing the share 
+    of long-term notes and bonds and lowering their yield`, `In 2024, co-authored a report (with Manhattan Institute senior fellow Dan Katz) that the 
+    Federal Reserve needs a structural overhaul. For board members, reducing terms from 14 to 8 years and should also be fireable at will by the president. 
+    For the boards of the 12 Federal banks across the country, should be chosen by state governors in each district`],
+    fun_facts: [],
+    assessment: ``
   },
 
   "blank-template": {
